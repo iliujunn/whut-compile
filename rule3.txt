@@ -1,0 +1,31 @@
+S -> A
+A -> I = E
+E -> UE
+E->  T 
+E->EXT
+T -> F
+T->  TXF
+F -> I 
+F->N 
+F->(E)
+N -> d
+N-> Nd
+I -> l
+I-> I l
+I->I d
+X->O
+X->M
+X->R
+X->L
+R-><
+R->>
+L->&
+L->|
+L->^
+U -> O 
+U->~
+U->!
+O -> +
+O->-
+M -> * 
+M->/
